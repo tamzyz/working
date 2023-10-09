@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d862a0503542bcf1","x":-190,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b670b1eb9fef243d","x":-180,"y":-160,"width":305,"height":190,"color":"3","type":"text","text":"oeasefawedasd\n\nthe asldkfasd\n\nasdflaksdfalsdkfads"},
+		{"id":"d01346dd7b2e39d4","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e06e253ff8b576ea","x":-360,"y":120,"width":360,"height":130,"type":"text","text":""}
+	],
+	"edges":[]
+}
